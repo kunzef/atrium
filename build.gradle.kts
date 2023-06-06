@@ -14,7 +14,7 @@ buildscript {
     rootProject.version = "1.1.0-SNAPSHOT"
     rootProject.group = "ch.tutteli.atrium"
     dependencies {
-        classpath("org.jetbrains.dokka:dokka-base:1.8.10")
+        classpath("org.jetbrains.dokka:dokka-base:1.8.20")
     }
 }
 
